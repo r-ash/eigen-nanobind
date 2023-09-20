@@ -1,4 +1,0 @@
-/home/rashton/projects/pybind-demo/build/CMakeFiles/my_ext.dir
-/home/rashton/projects/pybind-demo/build/CMakeFiles/nanobind-static.dir
-/home/rashton/projects/pybind-demo/build/CMakeFiles/edit_cache.dir
-/home/rashton/projects/pybind-demo/build/CMakeFiles/rebuild_cache.dir
